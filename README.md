@@ -17,3 +17,6 @@ python bot.py
 | Electrónica | $3,361,610 |
 | Ropa | $2,687,020 |
 
+
+## Conclusión Final
+El análisis muestra un excelente rendimiento en el sector de electrónica.
