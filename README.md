@@ -5,3 +5,9 @@ Este proyecto realiza un análisis de ventas y métricas asociadas.
 ```bash
 pip install pandas openpyxl
 ```
+
+## Cómo ejecutar
+```bash
+python bot.py
+```
+
