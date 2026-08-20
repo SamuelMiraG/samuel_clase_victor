@@ -11,3 +11,9 @@ pip install pandas openpyxl
 python bot.py
 ```
 
+## Resultados y Hallazgos
+| Categoría | Total ventas |
+|-----------|--------------|
+| Electrónica | $3,361,610 |
+| Ropa | $2,687,020 |
+
